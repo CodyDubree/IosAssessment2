@@ -39,7 +39,7 @@
                                 <rect key="frame" x="163" y="617" width="49" height="30"/>
                                 <state key="normal" title="Submit"/>
                                 <connections>
-                                    <action selector="submitButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fjc-w0-6Nl"/>
+                                    <action selector="submitButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QXh-U9-eEm"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Last Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lhb-Vs-con">
@@ -85,9 +85,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="emailTextfield" destination="pp6-1O-OFf" id="c04-fS-hCH"/>
-                        <outlet property="firstNameTextfield" destination="2My-V1-aYI" id="8sI-ms-p7B"/>
-                        <outlet property="lastNametextfield" destination="U5q-bs-lsj" id="ZRn-Qe-zSh"/>
+                        <outlet property="emailTextfield" destination="pp6-1O-OFf" id="Se2-0F-ypE"/>
+                        <outlet property="firstNameTextfield" destination="2My-V1-aYI" id="o4x-rx-8WQ"/>
+                        <outlet property="lastNametextfield" destination="U5q-bs-lsj" id="edJ-Kv-4Hy"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
